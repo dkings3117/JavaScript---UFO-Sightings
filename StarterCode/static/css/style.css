@@ -83,10 +83,6 @@ select {
   min-width: 70px;
 }
 
-#table-area th:first-child,
-  min-width: 70px;
-}
-
 .loader {
   margin-top: 50px;
 }
@@ -99,10 +95,10 @@ select {
 .hero {
   position: relative;
   height: 550px;
-  padding: 0px;
+  padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/i_want_to_believe.jpg");
+  background-image: url("../images/nasa.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
@@ -176,7 +172,7 @@ select {
   #table-area td {
     font-size: 1.25em;
   }
-  
+
   #table-area tbody td {
     display: block;
     text-align: center;
